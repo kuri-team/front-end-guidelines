@@ -9,7 +9,7 @@ Updated April, 2021 - Mike Vo
 - Use `th` tags for table header elements
 - Don't mix quotation marks
 - Define title
-- figcaption first or last child of figure
+- `figcaption` first or last child of `figure`
 - Close tags
 - No inline styles
 - Place External CSS Files Within the `head` tag
