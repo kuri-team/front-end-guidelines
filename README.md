@@ -1,5 +1,4 @@
 # FRONT END GUIDELINE HANDBOOK
-******************************
 Updated April, 2021 - Mike Vo
 
 ## HTML
