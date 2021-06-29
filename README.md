@@ -1,5 +1,5 @@
 # FRONT END GUIDELINE HANDBOOK
-Updated April, 2021 - Mike Vo
+Updated June, 2021 - Mike Vo
 
 ## HTML
 - Use HTML5
@@ -17,6 +17,7 @@ Updated April, 2021 - Mike Vo
 - Do not inline Javascript
 - Lowercase tag names
 - Use `h1`-`h6` to outline the page content
+- Further readings: https://www.w3schools.com/html/html5_syntax.asp
 
 ## CSS
 - Use a Reset or Reset with Normalize.css
